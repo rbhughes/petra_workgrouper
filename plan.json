@@ -1,0 +1,16 @@
+
+{
+  
+  "toMove": {
+    "MCE-NOMPW-2015": {
+      "parm": "\\\\CEPETRA05\\TEST\\__PARMS\\%USERNAME%",
+      "home": "\\\\CEPETRA05\\TEST"
+    },
+    "TUTORIAL": {
+      "parm": "\\\\CEPETRA05\\EOR\\__PARMS\\%USERNAME%",
+      "home": "\\\\CEPETRA05\\EOR"
+    }
+  }
+
+
+}
