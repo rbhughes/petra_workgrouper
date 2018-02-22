@@ -1,6 +1,4 @@
-
 {
-  
   "toMove": {
     "MCE-NOMPW-2015": {
       "parm": "\\\\CEPETRA05\\TEST\\__PARMS\\%USERNAME%",
@@ -14,11 +12,5 @@
       "parm": "\\\\CEPETRA05\\EOR\\__PARMS\\%USERNAME%",
       "home": "\\\\CEPETRA05\\EOR"
     }
-  },
-  "moved": {
   }
-
-
-
-
 }
