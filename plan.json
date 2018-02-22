@@ -9,8 +9,16 @@
     "TUTORIAL": {
       "parm": "\\\\CEPETRA05\\EOR\\__PARMS\\%USERNAME%",
       "home": "\\\\CEPETRA05\\EOR"
+    },
+    "INTERSTATE": {
+      "parm": "\\\\CEPETRA05\\EOR\\__PARMS\\%USERNAME%",
+      "home": "\\\\CEPETRA05\\EOR"
     }
+  },
+  "moved": {
   }
+
+
 
 
 }
